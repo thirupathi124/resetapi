@@ -6,5 +6,5 @@
 
 
 # local env files
-.env
-.vscode
+/.env
+/.vscode
